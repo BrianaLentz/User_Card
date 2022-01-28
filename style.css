@@ -1,0 +1,53 @@
+* {
+    font-family: sans-serif;
+}
+.card {
+    border: 2px solid grey;
+    justify-content: flex-start;
+    align-items: center;
+    width: 600px;
+    height: 340px;
+    margin:auto;
+    
+}
+
+#row {
+    width: 600px;
+    height: 100px;
+    background-color: rgb(224, 191, 240);
+    margin: 0px;
+    align-self: flex-start;
+
+}
+img.map, img.gear {
+    width: 20px;
+    margin-left: 20px;
+    
+}
+img.user-pic {
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+    margin-top: -40px;
+    
+}
+.btn {
+    border: none;
+    text-decoration: underline;
+    color: rgb(51, 51, 189);
+    background-color: white;
+
+}
+h1 {
+    font-size:40px;
+    margin: 0px 0px 10px 20px;
+
+}
+p {
+    margin: 5px 0px 8px 20px;
+    font-weight: 700;
+}
+span {
+    font-weight: 700;
+    margin-bottom: 12px;
+}
